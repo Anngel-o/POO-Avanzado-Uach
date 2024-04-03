@@ -1,0 +1,11 @@
+Permite la fácil creación de prototipos y pruebas. Una vez que identifique los objetos que compondrán un sistema, 
+puede simularlos rápidamente, incluidas todas las interfaces de usuario, para ver cómo se verá el producto 
+de software final.
+
+El análisis y diseño orientado a objetos es el que se realiza dentro de la ingeniería de software, dicho análisis 
+se enfoca en cómo un grupo de objetos es capaz de interactuar entre sí. Un buen análisis y diseño es esencial dentro 
+de la ingeniería de software para poder mejorar el desarrollo y estabilidad del sistema.
+
+El lenguaje unificado de modelado, conocido también como UML por sus siglas en inglés de Unified Modeling Language, 
+es el lenguaje de modelado orientado más popular y utilizado en la actualidad, este es un lenguaje gráfico que sirve 
+para especificar, visualizar, documentar y construir un sistema.

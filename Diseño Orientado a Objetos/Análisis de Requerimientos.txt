@@ -1,0 +1,6 @@
+Es el proceso de formulación de conceptos que involucran el sistema para garantizar que satisface 
+las necesidades del proyecto software.
+
+REQUERIMIENTO:
+Característica del sistema o una descripción de lo que un programa de software en particular debe hacer con el
+objetivo de satisfacer el propósito del sistema.

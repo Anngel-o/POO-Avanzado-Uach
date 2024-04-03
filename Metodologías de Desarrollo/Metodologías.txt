@@ -1,0 +1,54 @@
+Es el conjunto de técnicas y métodos que se utilizan para diseñar una solución de software. 
+Es importante señalar que existen varias, de manera que es decisión del equipo cual implementarla.
+
+Al trabajar con una metodología podrás controlar el desarrollo de trabajo, así anticipando los márgenes de errores 
+y adelantarse a ciertas situaciones, ahorrando tiempo y gestionando de la mejor manera posible los recursos disponibles
+
+							***AGILES****
+Hoy en día son las más utilizadas debido a su alta flexibilidad, y por la adaptación mediante las necesidades que van surgiendo en el camino.
+
+Están enfocadas en la interacción y el trabajo en equipo, así como en la entrega de software de alta calidad en un plazo de tiempo corto. 
+Dentro de la metodología ágil podemos encontrar los siguientes:
+
+-----Metodología KANBAN
+Se enfoca en la mejora del flujo de trabajo y en la alta calidad, una de sus principales características es la limitación del trabajo en progreso 
+(WIP), esto significa que no se puede comenzar nuevos trabajos hasta terminar con el trabajo actual, esto ayuda a evitar la sobrecarga de trabajo, 
+lo que te permite optimizar la entrega de trabajo a través de múltiples equipos y manejar, incluso los proyectos más complejos en un solo entorno.
+
+----Metodología SCRUM
+Se centra en la entrega de productos de alta calidad a través de un proceso de trabajo en equipo que se divide en autónomo que se encarga del 
+desarrollo de un producto y el otro es para revisar el progreso y planificación.
+
+						      ***TRADICIONALES****
+
+----Metodología cascada
+La metodología en cascada o modelo Waterfall, se usa en proyectos grandes y complejos en los que es importante que todos los pasos se cumplan de forma 
+estricta. Las actividades están relacionadas, de modo tal que el proceso avanza mediante las tareas ejecutadas, las principales acciones son las 
+especificaciones, la validación y la evaluación del mismo.
+
+----Metodología de prototipo
+Se crea un prototipo de software antes de empezar el desarrollo a gran escala. Esto permite a los desarrolladores una mejor comprensión de lo que el 
+software debe hacer y cómo debe funcionar, reduciendo el tipo y el costo del desarrollo.
+En este caso se busca que los usuarios aporten feedback, con esto pueden descubrir los fallos técnicos o que se puede introducir o si los usuarios 
+consideran funcional, esto permite mejorar el producto final y perfeccionarlo.
+
+----Metodología Devops
+Se implementa en proyectos que requieren un lanzamiento rápido, se trata de la colaboración y coordinación entre el personal de desarrollo y el de 
+operaciones, con el objetivo de mejorar la calidad y la velocidad.
+
+----Metodología Lean
+El método Lean es un enfoque innovador para la gestión de procesos de negocio. Su objetivo es eliminar las actividades que no agregan valor para lograr 
+un producto o servicio de mayor calidad, mejorando así la experiencia del cliente.
+
+----Metodología de Espiral
+Fue diseñado por Barry Boehm en 1986, es una combinación entre un modelo lineal y de cascada, pero en esta metodología se añade los modelos de riesgo.
+En este modelo, consiste en cierta fase que se van realizando en modo de espiral, de ahí el nombre, utilizando procesos para grandes proyectos 
+como la creación de un sistema operativo.
+
+----Desarrollo rápido de aplicaciones (RAD)
+Es una técnica concebida para desarrollar un buen software en poco tiempo. El objetivo de RAD es reducir el tiempo de desarrollo acelerado las etapas 
+de análisis, diseño, codificación, prueba e implementación.
+
+----Programación extrema (XP)
+Está diseñada para producir software de alta calidad de manera eficiente y en un entorno constante, se centra en la entrega de software funcional a 
+los clientes a través de un ciclo de desarrollo interactivo e incremental.
